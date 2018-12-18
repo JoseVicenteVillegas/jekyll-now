@@ -5,9 +5,8 @@ permalink: /about/
 ---
 
 Hola me llamo José Vicente Villegas Cobos
-### More Information
 
 
-### Contact me
+### Contactarme
 
 [email@domain.com](mailto:nephaldrion@gmail.com)
