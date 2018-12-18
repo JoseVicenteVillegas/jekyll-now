@@ -1,7 +1,7 @@
 ---
 layout: pagina
 title: Acerca de
-permalink: /acerca de/
+permalink: /about/
 ---
 
 Hola me llamo José Vicente Villegas Cobos
