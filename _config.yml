@@ -9,20 +9,14 @@ name: José Vicente Villegas
 description: Juegos de rol modernos
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwi-o_-G5ZffAhWw4YUKHWFoDBwQjRx6BAgBEAU&url=https%3A%2F%2Fwww.freepik.es%2Fvector-gratis%2Fplantilla-logo-dragon_742890.htm&psig=AOvVaw2J0jcGDdr-DxQnyonaKYG5&ust=1544618124416918
-
-#
-# Flags below are optional
-#
-
-# Includes an icon in the footer for each username you enter
+avatar: juego.jpg
 footer-links:
   dribbble:
   email:
   facebook:
   flickr:
   github: barryclark/jekyll-now
-  instagram:
+  instagram: blogpocket
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
