@@ -1,15 +1,13 @@
 ---
-layout: page
-title: About
-permalink: /about/
+layout: pagina
+title: Acerca de
+permalink: /acerca de/
 ---
 
-Some information about you!
-
+Hola me llamo José Vicente Villegas Cobos
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:nephaldrion@domain.com)
