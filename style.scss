@@ -23,13 +23,22 @@ body {
   color: $darkGray;
 }
 
-.container {
-  margin: 0 auto;
-  max-width: 740px;
-  padding: 0 10px;
-  width: 100%;
+div#min.container {
+    background-color: white;
 }
-
+<link rel="icon" href="/favicon.ico" type="image/ico" sizes="16x16 32x32">
+.wrapper-masthead { //cabezera
+    background-color: red;
+    border-bottom: 3px solid white;
+}
+article.post {
+    background-color: white;
+    padding-left: 10px;
+    padding-right: 20px;
+}
+.posts {
+    background-color: white;
+}
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
   color: $darkerGray;
