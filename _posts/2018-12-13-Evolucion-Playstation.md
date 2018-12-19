@@ -4,7 +4,7 @@ title: Tipos de Videojuegos de estrategia
 ---
 1.Juegos de estrategia en tiempo real
 
-!Real({{site.baseurl}}images/wings_of_liberty-590x332.jpg)
+![primer juego]({{site.baseurl}}images/wings_of_liberty-590x332.jpg)
 
 Los videojuegos de estrategia en tiempo real o RTS (siglas en inglés de real-time strategy) son videojuegos de estrategia en los que no hay turnos sino que el tiempo transcurre de forma continua para los jugadores.
 
@@ -16,7 +16,7 @@ El multijugador es el más extendido y popular de los demás subgéneros, pues s
 
 2.Juegos de estrategia por turnos
 
-!Real({{site.baseurl}}images/Civilization.jpg)
+![segundo juego]({{site.baseurl}}images/Civilization.jpg)
 
 Un videojuego de estrategia por turnos, también conocido por su sigla en inglés TBS (turn-based strategy), es un videojuego en el cual el flujo se particiona en partes bien definidas y visibles llamadas turnos o rondas. Por ejemplo, cuando la unidad de flujo del juego es el tiempo, los turnos representan unidades de tiempo, como años, meses, semanas, o días. Un jugador de un videojuego de estrategia por turnos dispone de un periodo de análisis antes de perpetrar la acción del juego, asegurando una separación entre el flujo del juego y el proceso de pensamiento, de manera que por turnos nos lleva presumiblemente a mejores soluciones. Una vez que cada jugador ha tomado su turno, esa ronda de juego ha terminado, y comienza la siguiente ronda de juego.
 
@@ -26,7 +26,7 @@ En general, este tipo de videojuegos poseen menos acción y menor detalle gráfi
 
 3.Juegos de City Builders
 
-!Real({{site.baseurl}}images/frostpunk.jpg)
+![tercer juego]({{site.baseurl}}images/frostpunk.jpg)
 
 Un juego de construcción de ciudades , o juego de construcción de ciudades , es un género de videojuego de simulación en el que los jugadores actúan como planificadores generales y líderes de una ciudad o ciudad, observan desde arriba y son responsables de su estrategia de crecimiento y gestión. . Los jugadores eligen la ubicación del edificio y las funciones de administración de la ciudad, como salarios y prioridades de trabajo, y la ciudad se desarrolla en consecuencia.
 
