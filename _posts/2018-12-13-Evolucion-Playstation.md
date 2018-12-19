@@ -1,6 +1,6 @@
 ---
 layout: post
-title: La evolución de las consolas de Sony
+title: Tipos de Videojuegos de estrategia
 ---
 1.Juegos de estrategia en tiempo real
 
